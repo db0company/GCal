@@ -17,3 +17,5 @@ tests/*
 #*#
 *.bak
 tools.eliom*
+example/gCal.eliom*
+example/example.conf
